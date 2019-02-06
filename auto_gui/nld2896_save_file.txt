@@ -1,0 +1,6 @@
+Type: frame name: t Part number: 1 Price: 3.000000, Frame Type: r
+
+ - 6
+Type: engine name: y Part number: 2 Price: 4.000000, Number of cylinders: 5 Cold fuel type: g
+
+ - 2
