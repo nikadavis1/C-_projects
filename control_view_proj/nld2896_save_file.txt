@@ -1,0 +1,1 @@
+Type: tire, Name: tire, Part Numer: 3, Price: 2 - 22
